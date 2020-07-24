@@ -1,0 +1,279 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Programming",
+      "image": "images/programming.jpg",
+      "category": "mains",
+      "label": "",
+      "price": "",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 1,
+      "name": "Finance",
+      "image": "images/finance.jpg",
+      "category": "",
+      "label": "",
+      "price": "",
+      "featured": false,
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Management",
+      "image": "images/management.jpg",
+      "category": "",
+      "label": "",
+      "price": "",
+      "featured": true,
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Marketing",
+      "image": "images/marketing.jpg",
+      "category": "",
+      "label": "",
+      "price": "",
+      "featured": false,
+      "description": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "dishId": 0,
+      "rating": 5,
+      "image": "/assets/images/pro1.png",
+      "author": "",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "dishId": 0,
+      "rating": 4,
+    "image": "/assets/images/pro2.png",
+      "author": "",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "dishId": 0,
+      "rating": 3,
+      "image": "/assets/images/pro3.png",
+      "author": "",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "dishId": 0,
+      "rating": 4,
+      "image": "/assets/images/pro4.png",
+      "author": "",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "dishId": 0,
+      "rating": 2,
+      "image": "/assets/images/pro5.png",
+      "author": "",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "dishId": 1,
+      "rating": 5,
+      "image": "/assets/images/fin1.png",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "dishId": 1,
+      "rating": 4,
+      "image": "/assets/images/fin2.png",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "dishId": 1,
+      "rating": 3,
+    "image": "/assets/images/fin3.png",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "dishId": 1,
+      "rating": 4,
+      "image": "/assets/images/fin4.png",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "dishId": 1,
+      "rating": 2,
+    "image": "/assets/images/fin5.png",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "dishId": 2,
+      "rating": 5,
+      "image": "/assets/images/start1.png",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "dishId": 2,
+      "rating": 4,
+      "image": "/assets/images/start2.png",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "dishId": 2,
+      "rating": 3,
+      "image": "/assets/images/start3.png",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "dishId": 2,
+      "rating": 4,
+    "image": "/assets/images/start4.png",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "dishId": 2,
+      "rating": 2,
+      "image": "/assets/images/start5.png",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "dishId": 3,
+      "rating": 5,
+      "image": "/assets/images/mar1.png",
+      "author": "John Lemon",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "dishId": 3,
+      "rating": 4,
+    "image": "/assets/images/mar2.png",
+      "author": "Paul McVites",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "dishId": 3,
+      "rating": 3,
+    "image": "/assets/images/mar3.png",
+      "author": "Michael Jaikishan",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "dishId": 3,
+      "rating": 4,
+    "image": "/assets/images/mar4.png",
+      "author": "Ringo Starry",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "dishId": 3,
+      "rating": 2,
+    "image": "/assets/images/mar5.png",
+      "author": "25 Cent",
+      "date": "2011-12-02T17:57:28.556094Z"
+    }
+
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft"
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Next.tech",
+      "image": "images/next.png",
+      "designation": "Collaborator",
+      "abbr": "",
+      "featured": false,
+      "description": "Cloud computing environments for teaching tech skills, upskilling your software team, and simplifying developer workflow."
+    },
+    {
+      "id": 1,
+      "name": "EchoAR",
+      "image": "images/echo.png",
+      "designation": "Collaborator",
+      "abbr": "",
+      "featured": false,
+      "description": "Helping Education through interactive social media post through Augemented Reality."
+    },
+    {
+      "id": 2,
+      "name": "Linode",
+      "image": "images/linode.png",
+      "designation": "Collaborator",
+      "abbr": "",
+      "featured": false,
+      "description": "Helping Content creators in Simplify cloud infrastructure with  Linux virtual machines and robust set of tools to develop, deploy, and scale  modern applications faster and easier."
+    },
+    {
+      "id": 3,
+      "name": "",
+      "image": "",
+      "designation": "",
+      "abbr": "",
+      "featured": true,
+      "description": ""
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    },
+    {
+      "firstname": "Abhinav",
+      "lastname": "Dixit",
+      "telnum": "8528723582",
+      "email": "abhinav.1923ec1076@kiet.edu",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "test feedback",
+      "id": 2
+    }
+  ]
+}
