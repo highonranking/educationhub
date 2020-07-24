@@ -107,7 +107,7 @@ function About(props) {
       </div>
       <div className="row row-content">
         <div className="col-12">
-          <h2>Our Collaborators</h2>
+          <h2>Hackathon Sponsers</h2>
         </div>
         <div className="col-12">
           <Media list>
