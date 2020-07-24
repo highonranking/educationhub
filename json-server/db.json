@@ -220,7 +220,7 @@
       "id": 0,
       "name": "Next.tech",
       "image": "images/next.png",
-      "designation": "Collaborator",
+      "designation": "Sponser",
       "abbr": "",
       "featured": false,
       "description": "Cloud computing environments for teaching tech skills, upskilling your software team, and simplifying developer workflow."
@@ -229,7 +229,7 @@
       "id": 1,
       "name": "EchoAR",
       "image": "images/echo.png",
-      "designation": "Collaborator",
+      "designation": "Sponser",
       "abbr": "",
       "featured": false,
       "description": "Helping Education through interactive social media post through Augemented Reality."
@@ -238,7 +238,7 @@
       "id": 2,
       "name": "Linode",
       "image": "images/linode.png",
-      "designation": "Collaborator",
+      "designation": "Sponser",
       "abbr": "",
       "featured": false,
       "description": "Helping Content creators in Simplify cloud infrastructure with  Linux virtual machines and robust set of tools to develop, deploy, and scale  modern applications faster and easier."
